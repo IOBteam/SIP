@@ -350,54 +350,54 @@
 		"step2Msg":"Сканируйте приведенный ниже QR-код с помощью приложения для аутентификации.",
 		"step3Msg":"Запишите этот секретный ключ и храните его в надежном месте:",
 		"step4Msg":"Введите 6-значный код, отображаемый в вашем приложении для аутентификации:",
-		"restoreMsg":"It may take up to 7 business days if you try to restore 2FA without this key (e.g. your phone got lost or erased).",
-		"download":"Download",
-		"userGuide":"User Guide",
-		"dangerousMsg":"Suspicious operation, please log in again",
-		"verificationCodeError":"Verification code error",
+		"restoreMsg":"Может потребоваться до 7 рабочих дней, если вы попытаетесь восстановить 2FA без этого ключа (например, ваш телефон был потерян).",
+		"download":"Скачать",
+		"userGuide":"Руководство пользователя",
+		"dangerousMsg":"Подозрительное действие, пожалуйста, войдите снова",
+		"verificationCodeError":"Ошибка кода подтверждения",
 		"errorCallback":{
-			"idBeEmpty":"Please enter the ID",
-			"secretBeEmpty":"Please enter the password",
-			"codeBeEmpty":"Please enter the code",
-			"codeValue":"Please enter a numeric value",
-	  		"codeDigits":"Must be 6 digits"
+			"idBeEmpty":"Пожалуйста, введите идентификатор",
+			"secretBeEmpty":"Пожалуйста, введите пароль",
+			"codeBeEmpty":"Пожалуйста, введите код",
+			"codeValue":"Пожалуйста, введите числовое значение",
+	  		"codeDigits":"Должно быть 6 цифр"
 		}
 	},
 	"password":{
-		"title":"Reset Password",
-		"emailAddress":"E-mail Address",
-		"agreeMsg":"I acknowledge that my account will be locked for a minimum of 24 hours.",
-		"agreeHint":"Please confirm the message first",
-		"resetButton":"Reset Password",
-		"sendMessage":"Send successfully, please check",
-		"notRegisteredMessage":"The email is not registered",
-		"failMessage":"Sorry, email sending failed",
+		"title":"Сброс пароля",
+		"emailAddress":"Адрес электронной почты",
+		"agreeMsg":"Я подтверждаю, что моя учетная запись будет заблокирована как минимум на 24 часа.",
+		"agreeHint":"Пожалуйста, сначала подтвердите сообщение",
+		"resetButton":"Сбросить пароль",
+		"sendMessage":"Отправлено успешно, пожалуйста, проверьте",
+		"notRegisteredMessage":"Электронная почта не зарегистрирована",
+		"failMessage":"Извините, отправка электронной почты не удалась",
 		"requiredMessage":{
-			"regEmail":"Please enter your registered email",
-			"type":"Incorrect email format"
+			"regEmail":"Пожалуйста, введите ваш зарегистрированный адрес электронной почты",
+			"type":"Неверный формат электронной почты"
 		}
 	},
 	"resetPassword":{
-		"successMessage":"Password reset successfully",
+		"successMessage":"Пароль успешно сброшен",
 		"errorCallback":{
 			"passWord":{
-				"empty":"Please enter your new password",
-				"value":"Minimum 8 characters, must contain lower case letters (a-z), upper case letters (A-Z), numbers (0-9) and symbols (e.g. @, #, $, %)"
+				"empty":"Пожалуйста, введите новый пароль",
+				"value":"Минимум 8 символов, должны содержать буквы нижнего регистра (a-z), буквы верхнего регистра (A-Z), цифры (0-9) и символы (например, @, #, $,%)"
 			},
 			"confirmPassWord":{
-				"again":"Please enter your password again",
-				"match":"The passwords do not match"
+				"again":"ППожалуйста, введите Ваш пароль снова",
+				"match":"пароли не совпадают"
 			}
 		}
 	},
 	"updateEmail":{
-		"updateMsg":"You are updating your email, please click the link.",
-		"sureMsg":"Confirm the email",
-		"noValidMsg":"The link is no longer valid.",
-		"noRegisterNotice":"The email is not registered or has been updated.",
-		"activatedNotice":"The email has been activated.",
-		"timeOutNotice":"The link has timed out.",
-		"successNotice":"Email updated successfully"
+		"updateMsg":"Вы обновляете свою электронную почту, пожалуйста, нажмите на ссылку.",
+		"sureMsg":"Подтвердите адрес электронной почты",
+		"noValidMsg":"Ссылка больше не действительна.",
+		"noRegisterNotice":"Электронная почта не зарегистрирована или была обновлена.",
+		"activatedNotice":"Электронная почта была активирована.",
+		"timeOutNotice":"Срок действия ссылки истек.",
+		"successNotice":"Электронная почта успешно обновлена"
 	},
 	"register":{
 		"alreadyAccount":"Already have an account?",
