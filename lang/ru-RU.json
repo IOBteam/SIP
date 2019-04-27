@@ -336,7 +336,7 @@
 		"homepageButton":"НАЗАД НА ГЛАВНУЮ СТРАНИЦУ"
 	},
 	"page500":{
-		"serverError":"SORRY, SERVER ERROR",
+		"serverError":"ИЗВИНИТЕ, ОШИБКА СЕРВЕРА",
 		"hintMessage":"Возможно проблема с сервером, наша команда прилагает все усилия, чтобы исправить, пожалуйста, попробуйте позже.",
 		"homepageButton":"НАЗАД НА ГЛАВНУЮ СТРАНИЦУ"
 	},
@@ -510,64 +510,64 @@
 		"paymentType":"Тип оплаты",
 		"sentTime":"Время отправлено",
 		"recordTime":"Время записи",
-		"timestamp1":"Timestamp1",
-		"timestamp1Price":"Time1 Price",
-		"timestamp2":"Timestamp2",
-		"timestamp2Price":"Time2 Price",
-		"averagePrice":"Average Price",
-		"purchasingAmountInUSD":"Purchasing Amount In USD",
-		"bonusRate":"Bonus Rate",
-		"bonus":"Bonus",
-		"totalIOB":"Total IOB"
+		"timestamp1":"Временная метка1",
+		"timestamp1Price":"Время1 Цена",
+		"timestamp2":"Временная метка2",
+		"timestamp2Price":"Время2 Цена",
+		"averagePrice":"Средняя цена",
+		"purchasingAmountInUSD":"Сумма покупки в долларах США",
+		"bonusRate":"Бонус-ставка",
+		"bonus":"Бонус",
+		"totalIOB":"Всего IOB"
 	},
 	"closeGoogleAuthentication":{
-		"hint":"You are closing your 2-FA."
+		"hint":"Вы закрываете двухфакторную аутентификацию."
 	},
 	"lostGoogleAuthentication":{
-		"lostAccessApp":"Lost access to your Google Authenticator app?",
-		"lostSecretkey":"1. I lost the 16-digit secret key for my SIP account.",
-		"sendEmailMessage":"please send an email to service@iob.vc",
-		"emailAddressHint":"Email address: Please use the email address you registered with SIP.",
-		"subjectHint":"Subject: Briefly describe your problem in the Subject field.",
-		"descriptionHint":"Description: Please enter the details of your request. A member of our support staff will respond as soon as possible.",
-		"submitRequestMessageBefore":"You need to submit a request to contact our",
-		"customerService":" customer service ",
-		"submitRequestMessageAfter":", we will solve the problem for you as soon as possible.",
-		"haveSecretkey":"2. I have the 16-digit secret key for my SIP account.",
-		"email":"E-mail",
-		"secretKey":"Secret Key",
-		"emailNotEmpty":"E-mail is required",
-		"emailNotValid":"E-mail must be valid",
-		"secretKeyNotEmpty":"Secret key is required",
-		"secretKeyNotValid":"Secret key must be 16 characters",
-		"accepteEmail":"Reset 2-FA by accepting an email.",
-		"sendEmailSuccess":"Mail sent successfully",
-		"emailAddressNotExist":"Email address does not exist",
-		"secretKeyError":"Incorret secret key"
+		"lostAccessApp":"Потерян доступ к Вашему приложению Google Authenticator?",
+		"lostSecretkey":"1. Я потерял(а) 16-значный секретный ключ для своей учетной записи SIP.",
+		"sendEmailMessage":"Пожалуйста, отправьте электронное письмо на service@iob.vc",
+		"emailAddressHint":"Адрес электронной почты: пожалуйста, используйте адрес электронной почты, который вы зарегистрировали в SIP.",
+		"subjectHint":"Тема: кратко опишите Вашу проблему в поле.",
+		"descriptionHint":"Описание: Пожалуйста, введите детали вашего запроса.",
+		"submitRequestMessageBefore":"Вам необходимо отправить запрос, чтобы связаться с нашим",
+		"customerService":" центром обслуживания клиентов ",
+		"submitRequestMessageAfter":"мы решим это как можно быстрее.",
+		"haveSecretkey":"2. У меня есть 16-значный секретный ключ для моей учетной записи SIP.",
+		"email":"Электронная почта",
+		"secretKey":"Секретный ключ",
+		"emailNotEmpty":"Требуется электронная почта",
+		"emailNotValid":"Адрем электронной почты должен быть действительным",
+		"secretKeyNotEmpty":"Требуется секретный ключ",
+		"secretKeyNotValid":"Секретный ключ должен состоять из 16 символов",
+		"accepteEmail":"Для сброса 2-FА, примите электронную почту.",
+		"sendEmailSuccess":"Почта успешно отправлена",
+		"emailAddressNotExist":"Адрес электронной почты не существует",
+		"secretKeyError":"Неправильный секретный ключ"
 	},
 	"userRequest":{
-		"submitRequest":"Submit a request",
-		"issue":"Issue",
-		"email":"E-mail",
-		"emailHint":"Please provide the email address you registered with SIP.",
-		"subject":"Subject",
-		"subjectHint":"Briefly describe your problem in the Subject field.",
-		"description":"Description",
-		"descriptionHint":"Please enter the details of your request.",
+		"submitRequest":"Отправить запрос",
+		"issue":"Проблема",
+		"email":"Электронная почта",
+		"emailHint":"Пожалуйста, укажите адрес электронной почты, который Вы зарегистрировали в SIP.",
+		"subject":"Тема",
+		"subjectHint":"Кратко опишите Вашу проблему в поле Тема.",
+		"description":"Описание",
+		"descriptionHint":"Пожалуйста, введите детали Вашего запроса.",
 		"issueSelect":{
-			"account":"Account",
-			"password":"Password",
-			"googleAuth":"Google Auth(2FA)",
-			"wallet":"Wallet",
-			"other":"Other"
+			"account":"Учетная запись",
+			"password":"Пароль",
+			"googleAuth":"Google Authenticator(2FA)",
+			"wallet":"Кошелек",
+			"other":"Другое"
 		},
 		"rules":{
 			"issue":{
-				"required":"Please select a issue"
+				"required":"Пожалуйста, выберите проблему"
 			},
 			"regEmail":{
-				"required":"E-mail is required",
-				"valid":"E-mail must be valid"
+				"required":"Требуется электронная почта",
+				"valid":"Электронная почта должна быть действительной"
 			},
 			"subject":{
 				"required":"Subject is required",
