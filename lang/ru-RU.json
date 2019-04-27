@@ -570,41 +570,41 @@
 				"valid":"Электронная почта должна быть действительной"
 			},
 			"subject":{
-				"required":"Subject is required",
-				"valid":"Character length exceeds limit"
+				"required":"Тема обязательна",
+				"valid":"Длина символов превышает лимит"
 			},
 			"description":{
-				"required":"Description is required",
-				"valid":"Character length exceeds limit"
+				"required":"Описание обязательно",
+				"valid":"Длина символов превышает лимит"
 			}
 		},
-		"submitSuccessTitle":"Submitted successfully",
-		"submitSuccessDesc":"Your request has been submitted successfully and we will resolve the issue as soon as possible."
+		"submitSuccessTitle":"Отправлено успешно",
+		"submitSuccessDesc":"Ваш запрос был успешно отправлен, и мы решим проблему как можно скорее."
 	},
 	"menu":{
-		"profile":"Profile",
-		"signOut":"Sign Out",
-		"posts":"Posts",
-		"comments":"Comments",
-		"replies":"Replies",
-		"language":"Language: ",
-		"locale":"English",
-		"darkTheme":"Dark Theme",
-		"dark":"Dark",
-		"light":"Light",
-		"setting":"Setting",
-		"style":"Style",
-		"selectStyle":"Select Style",
-		"home":"Home",
-		"microArticle":"Microarticles",
-		"searchUser":"User Search",
+		"profile":"Профиль",
+		"signOut":"Выйти",
+		"posts":"Посты",
+		"comments":"Комментарии",
+		"replies":"Ответы",
+		"language":"Язык: ",
+		"locale":"Английский язык",
+		"darkTheme":"Темный режим",
+		"dark":"Темный",
+		"light":"Светлый",
+		"setting":"Настройка",
+		"style":"Стиль",
+		"selectStyle":"Выбрать стиль",
+		"home":"Главная",
+		"microArticle":"Микростатьи",
+		"searchUser":"Поиск пользователя",
 		"tokenTracker":"Token Tracker",
-		"IOBPowerRanking":"IOB Power Ranking",
-		"GDPR":"GDPR Statement",
-		"privacy":"Privacy Statement",
-		"AML":"AML Policy",
-		"support":"Support",
-		"sendFeedback":"Send Feedback"
+		"IOBPowerRanking":"Рейтинг IOB Power",
+		"GDPR":"GDPR",
+		"privacy":"Заявление о конфиденциальности",
+		"AML":"AML",
+		"support":"Поддержка",
+		"sendFeedback":"Отправить отзыв"
 	},
 	"uploadMaterial":{
 		"selfie":"ID Selfie",
