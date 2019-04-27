@@ -608,61 +608,61 @@
 	},
 	"uploadMaterial":{
 		"selfie":"ID Selfie",
-		"attachMessage":"Please attach JPG, JPEG or PNG less than 2M.",
-		"uploadHint":"Click or drag files here to upload",
-		"uploadFile":"Upload file",
-		"upload":"Upload",
+		"attachMessage":"Пожалуйста, приложите JPG, JPEG или PNG менее 2M",
+		"uploadHint":"Нажмите или перетащите файлы сюда, чтобы загрузить",
+		"uploadFile":"Загрузить файл",
+		"upload":"Загрузить",
 		"message":{
-			"tooLarge":"File is too large, no more than 2M.",
-			"formatIncorrect":"File format is incorrect,Please attach JPG, JPEG or PNG less than 2M.",
-			"uploadSuccessTitle":"Successful upload!",
-			"uploadSuccessDesc":"Your materials have been uploaded to our server, our staff will handle it as soon as possible, please be patient."
+			"tooLarge":"Файл слишком большой, загрузите файл не более 2M.",
+			"formatIncorrect":"Неверный формат файла. Пожалуйста, загрузите файл JPG, JPEG или PNG не более 2M.",
+			"uploadSuccessTitle":"Успешная загрузка",
+			"uploadSuccessDesc":"Ваши материалы были загружены на наш сервер, наша команда обработает это как можно скорее."
 		}
 	},
 	"microArticles":{
-		"publishMessage":"What's happening?",
-		"publish":"Publish",
-		"hot":"Hot",
-		"new":"New",
-		"noMore":"No more data",
-		"noResults":"No results",
-		"contentLimit":"Content no more than 1000 words"
+		"publishMessage":"Что происходит?",
+		"publish":"Опубликовать",
+		"hot":"Интерсное",
+		"new":"Новое",
+		"noMore":"Нет больше данных",
+		"noResults":"Нет результатов",
+		"contentLimit":"Содержание не более 1000 слов"
 	},
 	"microArticle":{
-		"no":"No",
-		"comments":"Comments",
-		"yet":"yet",
-		"commentLimit":"Content no more than 500 words"
+		"no":"Нет",
+		"comments":"Комментарии",
+		"yet":"Пока что",
+		"commentLimit":"Содержание не более 500 слов"
 	},
 	"foot":{
-	   	"title":"Social Investment Platform<br><span class='Slogan'>Financial market cheats reported</span>",
-	   	"aboutUs":"About us",
-		"contact":"Contact us",
-		"gdpr":"GDPR Statement",
-	   	"privacy":"Privacy Statement",
-		"policy":"AML Policy",
-		"kyc":"KYC",
-	   	"IOBToken":"IOB Token",
-	   	"aLLRightsReserved":"ALL rights reserved"
+	   	"title":"Платформа социальных инвестиций<br><span class='Slogan'>Разоблачение обманов финансового рынка</span>",
+	   	"aboutUs":"О нас",
+		"contact":"Свяжитесь с нами",
+		"gdpr":"GDPR",
+	   	"privacy":"Заявление о конфиденциальности",
+		"policy":"AML",
+		"kyc":"ЗСК",
+	   	"IOBToken":"IOB Токен",
+	   	"aLLRightsReserved":"Все права защищены"
  	},
  	"kyc":{
  		"rules":{
  			"required":{
- 				"required":"This field is required",
- 				"identity":"Please select a identity",
- 				"country":"Please select a country",
- 				"proof":"Please select a proof"
+ 				"required":"Это поле должно быть обязательно заполнено",
+ 				"identity":"Пожалуйста, выберите способ идентификации",
+ 				"country":"Пожалуйста, выберите страну",
+ 				"proof":"Пожалуйста, выберите способ доказательства"
  			}
  		},
- 		"identity":"Identity",
+ 		"identity":"Идентификация",
  		"identitySelect":{
- 			"passport":"Passport",
- 			"idCard":"Identification Card",
- 			"driverLicence":"Driver's Licence"
+ 			"passport":"Паспорт",
+ 			"idCard":"Достоверение личности",
+ 			"driverLicence":"Водительские права"
  		},
- 		"documentIssuingCountry":"Document Issuing Country",
- 		"country":"Country",
- 		"proofOfPermanentAddress":"Proof Of Permanent Address",
+ 		"documentIssuingCountry":"Страна выдачи документа",
+ 		"country":"Страна",
+ 		"proofOfPermanentAddress":"Подтверждение постоянного адреса проживания",
  		"proofOfPermanentAddressSelect":{
  			"telephoneBill":"Telephone Bill",
  			"bankAccountStatement":"Bank Account Statement",
