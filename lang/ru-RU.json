@@ -57,7 +57,7 @@
 	  	"googleModalTitle":"Введите Двухфакторный Код Аутентификации",
 	  	"googleModalEnterHint":"Введите код, созданный вашим приложением Google Authenticator",
 	  	"googleModalContactHintBefore":"Пожалуйста, свяжитесь с ",
-	  	"googleModalContactHintMiddle":"нашей службой поддержки",
+	  	"googleModalContactHintMiddle":"нашей службой поддержки,",
 	  	"googleModalContactHintAfter":" если вы потеряли доступ к своему приложению Google Authenticator",
 	  	"verifyCodeWrongMessage":"Неверный код подтверждения",
 	  	"loginSuccessMessage":"Успешный вход",
