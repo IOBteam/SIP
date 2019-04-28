@@ -664,37 +664,37 @@
  		"country":"Страна",
  		"proofOfPermanentAddress":"Подтверждение постоянного адреса проживания",
  		"proofOfPermanentAddressSelect":{
- 			"telephoneBill":"Telephone Bill",
- 			"bankAccountStatement":"Bank Account Statement",
- 			"utilityBill":"Utility Bill"
+ 			"telephoneBill":"Счет за телефон",
+ 			"bankAccountStatement":"Выписка по банковскому счету",
+ 			"utilityBill":"Счет за коммунальные услуги"
  		},
- 		"basicInformation":"Basic Information",
- 		"username":"Username",
- 		"email":"Email",
- 		"firstName":"First Name",
- 		"middleName":"Middle Name",
- 		"lastName":"Last Name",
- 		"documentNumber":"Document Number",
- 		"birthday":"Birthday",
+ 		"basicInformation":"Базовая информация",
+ 		"username":"Имя пользователя",
+ 		"email":"Электронная почта",
+ 		"firstName":"Имя",
+ 		"middleName":"Среднее имя/Отчество",
+ 		"lastName":"Фамилия",
+ 		"documentNumber":"Номер документа",
+ 		"birthday":"День рождения",
  		"gender":{
- 			"gender":"Gender",
- 			"male":"Male",
- 			"female":"Female"
+ 			"gender":"Пол",
+ 			"male":"Мужской",
+ 			"female":"Женский"
  		},
- 		"documentFront":"Document Front",
- 		"documentBack":"Document Back",
- 		"proofOfBill":"Proof Of Bill",
- 		"selfieWithPhotoIDAndNote":"Selfie With Photo ID And Note",
- 		"selfieMessage":"Please provide a photo of you holding your passport or photo ID. In the same picture have a reference to IOB and today's date displayed — a note with the word 'IOB SIP', today's date, and your signature will do. Make sure your face will be clearly visible and that all passport details are clearly readable.",
- 		"selfieList1":"Face clearly visible",
- 		"selfieList2":"Photo ID clearly visible",
- 		"selfieList3":"Note with word \"IOB SIP\"",
- 		"selfieList4":"Note with today's date",
- 		"selfieList5":"Note with signature"
+ 		"documentFront":"Лицевая сторона документа",
+ 		"documentBack":"Задняя сторона документа",
+ 		"proofOfBill":"Доказательство счета",
+ 		"selfieWithPhotoIDAndNote":"Селфи с фотографией и заметкой",
+ 		"selfieMessage":"Пожалуйста, предоставьте фотографию с Вашим паспортом или удостоверением личности с фотографией. На этом же изображении сделайте запись с сегодняшним числом, заметкой со словами ‘IOB SIP’ и Вашей подписью . Убедитесь, что Ваше лицо хорошо видно и все паспортные данные можно четко прочитать.",
+ 		"selfieList1":"Лицо четко видно",
+ 		"selfieList2":"Удостоверение личности с фотографией четко видно",
+ 		"selfieList3":"Заметка со словами \"IOB SIP\"",
+ 		"selfieList4":"Заметка с сегодняшней датой",
+ 		"selfieList5":"Заметка с подписью"
  	},
  	"userRanking":{
- 		"avatar":"Avatar",
- 		"userName":"Username",
- 		"nickname":"Nickname"
+ 		"avatar":"Аватар",
+ 		"userName":"Имя пользователя",
+ 		"nickname":"Никнейм/Псевдоним"
  	}
 }
